@@ -7,4 +7,4 @@ Publication: Li, Mingyan; Jin, Jin; Weber, Ewald; Engstrom, Craig; Destruel, Aur
 Materials: 
 
 - Conductor: PEC
-- Substrate: FR-4(lossy), epsilon=4.3, loss tangent=0.025 at 10GHz (constant fit), thermal conductivity=0.3
+- Substrate: Rogers4360(lossy), epsilon=6.4, loss tangent=0.0038 at 10GHz (constant fit), thermal conductivity=0.8
